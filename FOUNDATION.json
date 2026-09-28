@@ -1,0 +1,7 @@
+{
+  "system": "stablecoin-protocol",
+  "tier": "PARKED",
+  "reason": "empty Solidity stub; Coinbase portfolio is $0; no token launch",
+  "cash_rail": "https://buy.stripe.com/3cI00j7YV0hQgDp8BR43S2v",
+  "stamped_by": "garcar-repo-foundry"
+}
